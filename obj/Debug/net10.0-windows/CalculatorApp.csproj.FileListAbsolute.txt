@@ -1,4 +1,0 @@
-c:\Users\Safa\Downloads\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\Safa\Downloads\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.AssemblyInfoInputs.cache
-c:\Users\Safa\Downloads\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.AssemblyInfo.cs
-c:\Users\Safa\Downloads\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
