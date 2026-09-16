@@ -1,0 +1,14 @@
+c:\Users\Safa\Downloads\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.exe
+c:\Users\Safa\Downloads\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.deps.json
+c:\Users\Safa\Downloads\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.runtimeconfig.json
+c:\Users\Safa\Downloads\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.dll
+c:\Users\Safa\Downloads\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.pdb
+c:\Users\Safa\Downloads\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Safa\Downloads\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+c:\Users\Safa\Downloads\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.AssemblyInfo.cs
+c:\Users\Safa\Downloads\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
+c:\Users\Safa\Downloads\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.dll
+c:\Users\Safa\Downloads\CalculatorApp\obj\Debug\net6.0-windows\refint\CalculatorApp.dll
+c:\Users\Safa\Downloads\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.pdb
+c:\Users\Safa\Downloads\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.genruntimeconfig.cache
+c:\Users\Safa\Downloads\CalculatorApp\obj\Debug\net6.0-windows\ref\CalculatorApp.dll
